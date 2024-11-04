@@ -37,6 +37,3 @@ The `.bat` file (`database.bat`) is used to store the data in a simple format, a
 - `GET /api/todolist`
 - `GET /api/status`
 - `POST /api/toggle`
-
-## License
-This project is licensed under the MIT License.
