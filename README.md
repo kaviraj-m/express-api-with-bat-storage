@@ -13,7 +13,7 @@ This project is an Express.js application that uses a `.bat` file for data stora
 
 1. Clone the repository:
 bash
-   git clone https://github.com/yourusername/Express-Bat-Storage-API.git
+   git clone https://github.com/kaviraj-m/express-api-with-bat-storage
    
 2. Navigate to the project directory:
 bash
